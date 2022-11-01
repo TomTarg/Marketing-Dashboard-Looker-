@@ -7,5 +7,5 @@ The project analyzed ad-campaigns data
 RPS - Revenue per session   
 PVS - Page views per session  
 CPC - Cost per click  
-CTR - Click through rate
+CTR - Click through rate  
 CPM - Cost per mile (1000)  
