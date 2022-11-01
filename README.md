@@ -4,3 +4,8 @@ The project analyzed ad-campaigns data
 -- PDF file - Dashboard screenshot  
 -- The link to Looker interactive dashboard  https://datastudio.google.com/s/ify8uVFTyuQ
 
+RPS - Revenue per session   
+PVS - Page views per session  
+CPC - Cost per click  
+CTR - Click through rate
+CPM - Cost per mile (1000)  
